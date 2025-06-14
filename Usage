@@ -1,0 +1,7 @@
+Launch the application using the command above.
+Enter your name in the "Your Name" field.
+Input the amount you want to convert in the "Amount" field.
+Select the source currency (e.g., USD) from the "From Currency" dropdown.
+Select the target currency (e.g., EUR) from the "To Currency" dropdown.
+Click the Convert button to see the result, displayed as: [Your Name], Converted Amount: [Amount] [Target Currency].
+If an error occurs (e.g., invalid amount or missing name), a message box will guide you to correct the input.
