@@ -1,0 +1,12 @@
+Clone the repository:
+                     git clone https://github.com/your-username/currency-converter.git
+cd currency-converter
+Install dependencies: Install the required Pillow library using pip:
+                                                                   pip install Pillow
+Download a background image:
+                           Place a background image (e.g., background.jpg) in the project directory. You can download a free mobile app-style gradient or abstract image from sites like Unsplash or Pexels.
+Recommended image size: 400x350 pixels or larger.
+Update the filename in the code (bg_image = Image.open("background.jpg")) if using a different image.
+
+Run the application:
+                    python currency_converter.py
