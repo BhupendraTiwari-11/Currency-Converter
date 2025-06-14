@@ -1,0 +1,5 @@
+Before running the application, ensure you have the following installed:
+Python 3.6 or higher
+Required Python libraries:
+tkinter (usually included with Python)
+Pillow (for background image support)
