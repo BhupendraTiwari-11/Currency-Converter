@@ -1,6 +1,5 @@
 Clone the repository:
-                     git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
+                     git clone https://github.com/your-username/currency-converter.git cd currency-converter
 Install dependencies: Install the required Pillow library using pip:
                                                                    pip install Pillow
 Download a background image:
